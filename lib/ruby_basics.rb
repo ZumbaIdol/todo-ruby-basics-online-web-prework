@@ -22,7 +22,7 @@ end
 argue
 
 def greeting(greeting, name)
-  
+  puts "Hello #{name}!"
 end
 
 greeting(greeting, name)
